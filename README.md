@@ -1,5 +1,3 @@
-# JX1-CTC
-Project Server Game JX1- Bản Công Thành CHiến
 1. Thông tin Server Jx Win – Auto Ingame
 Phiên bản công thành chiến(CTC) - đồ xanh ngũ hành - Hiệp Cốt, Nhu Tình, An Bang Định Quốc làm chủ đạo. Hoạt đồng đầy đủ. Nói không với kéo xe, giới hạn acc 2acc/pc, tống kim 1acc/pc.
 
